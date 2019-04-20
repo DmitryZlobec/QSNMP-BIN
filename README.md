@@ -1,1 +1,5 @@
-# QSNMP_BIN
+# QSNMP-BIN
+
+Binary distribution of QSNMP Agent.
+
+MongoDB is supported.
